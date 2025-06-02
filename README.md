@@ -15,8 +15,9 @@ python train_extract.py
 ```
 
  # Inference
+Retrieval inference example.
+
  ```
-frome CDDRS import 
 frome CDDRS import GKGR
 
 source_knowledge_base = 'path_to_knowledge_base'
