@@ -6,7 +6,7 @@ This is the official repo for our paper: "Generative Knowledge-Guided Review Sys
 - Relevant data process tools are in `./data/process.ipynb`
 
 # Weights
-The pretrained weights can be acquired in at [google_drive]().
+The pretrained weights can be acquired at [google_drive]().
 
 # Train
 You can train the extraction modules in this commend:
