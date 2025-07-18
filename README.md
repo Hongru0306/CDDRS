@@ -84,32 +84,13 @@ retrieval_result = GKGR(
 | `query` | str | **Required** | The search query text |
 | `source_knowledge_base` | str | **Required** | Path to the document directory |
 | `topk` | int | `3` | Number of top results to return |
-| `llm` | str | `'gpt-4o-mini'` | LLM model name (`'gpt-4o-mini'`, `'deepseek'`, etc.) |
+| `llm` | str | `'deepseek-chat'` | LLM model name (`'gpt-4o'`, `'deepseek-chat'`, etc.) |
 | `api` | str | `'your-api-key'` | API key for the LLM service |
 | `base_url` | str | `'https://api.deepseek.com/v1'` | API base URL |
-
-### Return Configuration
-
-| Parameter | Type | Default | Description |
-|-----------|------|---------|-------------|
-| `return_type` | str | `'answer'` | Return format: `'answer'`, `'documents'`, or `'both'` |
-
-### Model Configuration
-
-| Parameter | Type | Default | Description |
-|-----------|------|---------|-------------|
 | `embedding_model` | str | `'./models/bge-m3'` | Path to embedding model |
 | `bert_model_path` | str | `'pretrain_model.pth'` | Path to BERT query expansion model |
-| `chunk_size` | int | `512` | Document chunk size for processing |
-| `chunk_overlap` | int | `64` | Overlap between document chunks |
-
-### Retrieval Configuration
-
-| Parameter | Type | Default | Description |
-|-----------|------|---------|-------------|
+| `chunk_size` | int | `512` | Document max chunk size for processing |
 | `retrieval_mode` | str | `'gkgr'` | Retrieval mode: `'vector'`, `'kg'`, or `'gkgr'` |
-| `enable_hybrid_search` | bool | `True` | Enable hybrid retrieval combining multiple methods |
-| `enable_query_expansion` | bool | `True` | Enable BERT-based query expansion |
 
 ### Advanced Parameters
 
