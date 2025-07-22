@@ -1,5 +1,5 @@
 # Construction-Disclosure-Documents-Reviewing-System
-This is the official repo for our paper: "Generative Knowledge-Guided Review System for Construction Disclosure Documents Reviewing"
+This is the official repo for our paper: "Generative Knowledge-Guided Review System for Construction Disclosure Documents Reviewing"(ADVEI2025)
 
 # Data
 - Relevant data files could be acquired in `./data/`.
