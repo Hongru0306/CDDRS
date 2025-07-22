@@ -110,4 +110,4 @@ test_results = retrieve_test(annotated_files, metric, mode='retrieve')
 ```
 
 # Note
-The all relevant source will be released before 7.25, 2025!!
+All relevant source will be released before 7.25, 2025!!
