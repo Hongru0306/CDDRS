@@ -1,5 +1,5 @@
 # Construction-Disclosure-Documents-Reviewing-System
-This is the official repo for our paper: "Generative Knowledge-Guided Review System for Construction Disclosure Documents Reviewing"
+This is the official repo for our paper: "Generative Knowledge-Guided Review System for Construction Disclosure Documents Reviewing"(ADVEI2025)
 
 # Data
 - Relevant data files could be acquired in `./data/`.
@@ -110,4 +110,4 @@ test_results = retrieve_test(annotated_files, metric, mode='retrieve')
 ```
 
 # Note
-The relevant source will be released after acceptance.
+All relevant source will be released before 7.25, 2025!!
