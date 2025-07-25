@@ -1,6 +1,6 @@
 # GKGR Test Case: A Christmas Carol
 
-We use [A Christmas Carol](https://raw.githubusercontent.com/Hongru0306/CDDRS/example/english-text.txt) as the test corpus.
+We use [A Christmas Carol](https://raw.githubusercontent.com/Hongru0306/CDDRS/main/example/english-text.txt) as the test corpus.
 
 ---
 
