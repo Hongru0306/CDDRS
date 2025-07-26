@@ -109,5 +109,18 @@ metric = ['MRR', 'Acc'] # generate is 'F1'
 test_results = retrieve_test(annotated_files, metric, mode='retrieve')
 ```
 
-# Note
-All relevant source will be released before 7.25, 2025!!
+# Cite
+```
+@article{XIAO2025103618,
+title = {Generative knowledge-guided review system for construction disclosure documents},
+journal = {Advanced Engineering Informatics},
+volume = {68},
+pages = {103618},
+year = {2025},
+issn = {1474-0346},
+doi = {https://doi.org/10.1016/j.aei.2025.103618},
+url = {https://www.sciencedirect.com/science/article/pii/S1474034625005117},
+author = {Hongru Xiao and Jiankun Zhuang and Bin Yang and Jiale Han and Yantao Yu and Songning Lai},
+keywords = {Construction documents review, Large language model (LLM), Knowledge-guided retrieval, Natural Language Processing (NLP)}
+}
+```
