@@ -2,8 +2,7 @@
 This is the official repo for our paper: "Generative Knowledge-Guided Review System for Construction Disclosure Documents Reviewing"(ADVEI2025)
 
 # Data
-- Relevant data files could be acquired in `./data/`.
-- Relevant data process tools are in `./data/process.ipynb`
+- Example data files are in `./example/`.
 
 # Weights
 The pretrained weights can be acquired at [google_drive]().
