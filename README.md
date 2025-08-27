@@ -5,7 +5,7 @@ This is the official repo for our paper: "Generative Knowledge-Guided Review Sys
 - Example data files are in `./example/`.
 
 # Weights
-The pretrained weights can be acquired at [google_drive]().
+The pretrained weights can be acquired at [google_drive](https://drive.google.com/file/d/1Z5p3WQaDdDMT_ZgnCWiuKcDxvr8Z60Ya/view?usp=sharing).
 
 # Train
 You can train the extraction modules in this commend:
