@@ -9,7 +9,7 @@ The pretrained weights can be acquired at [google_drive](https://drive.google.co
 
 # Train (Optional)
 
-NOTE: You can skip this process to run the default LLM-based extraction strategy.
+NOTE: You can skip this process to run the default LLM-based extraction strategy first.
 
 You can train the extraction modules in this commend:
 ```bash
